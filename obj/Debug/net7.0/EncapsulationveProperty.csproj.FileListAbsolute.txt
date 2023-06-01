@@ -1,0 +1,15 @@
+D:\Patika\EncapsulationveProperty\bin\Debug\net7.0\EncapsulationveProperty.exe
+D:\Patika\EncapsulationveProperty\bin\Debug\net7.0\EncapsulationveProperty.deps.json
+D:\Patika\EncapsulationveProperty\bin\Debug\net7.0\EncapsulationveProperty.runtimeconfig.json
+D:\Patika\EncapsulationveProperty\bin\Debug\net7.0\EncapsulationveProperty.dll
+D:\Patika\EncapsulationveProperty\bin\Debug\net7.0\EncapsulationveProperty.pdb
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\EncapsulationveProperty.csproj.AssemblyReference.cache
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\EncapsulationveProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\EncapsulationveProperty.AssemblyInfoInputs.cache
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\EncapsulationveProperty.AssemblyInfo.cs
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\EncapsulationveProperty.csproj.CoreCompileInputs.cache
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\EncapsulationveProperty.dll
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\refint\EncapsulationveProperty.dll
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\EncapsulationveProperty.pdb
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\EncapsulationveProperty.genruntimeconfig.cache
+D:\Patika\EncapsulationveProperty\obj\Debug\net7.0\ref\EncapsulationveProperty.dll
